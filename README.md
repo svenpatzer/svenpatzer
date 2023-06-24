@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Sven Patzer 👋
+## Hi, I'm Sven Patzer 👋
 ![](https://github.com/svenpatzer/svenpatzer/blob/main/welcome1.png?raw=true)
 
 Sven Patzer is a self-taught programmer and entrepreneur who has managed to achieve incredible success despite dropping out of college twice. Despite facing challenges early on, Sven's determination and passion for coding led him to discover the power of artificial intelligence (AI) and how it can be used to revolutionize the world of data science.

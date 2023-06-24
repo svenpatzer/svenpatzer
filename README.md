@@ -8,7 +8,7 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-<p align="left"> <a href="https://twitter.com/awais-khan" target="blank"><img src="https://img.shields.io/twitter/follow/awais-khan?logo=twitter&style=for-the-badge" alt="Sven Patzer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sven-Patzer" target="blank"><img src="https://img.shields.io/twitter/follow/Sven-Patzer?logo=twitter&style=for-the-badge" alt="Sven Patzer" /></a> </p>
 
 
 ## 🚀 About Me:
